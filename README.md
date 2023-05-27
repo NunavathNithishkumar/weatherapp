@@ -1,0 +1,2 @@
+# weatherapp
+Developed using JavaScript
